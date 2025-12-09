@@ -27,3 +27,7 @@ Save over time:
 
     Dates MUST be given in precisely the listed format.
 ```
+
+## License
+This project is licensed under the permissive Zero-Clause BSD License. Copyright 2025, Xavier Mercerweiss.
+ 
