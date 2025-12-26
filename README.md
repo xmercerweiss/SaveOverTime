@@ -1,8 +1,7 @@
 # SaveOverTime
 This is a simple Java program that lets you calculate how much money you 
 need to save every day, week, month, or year to let you meet a goal by a
-certain date. I just made this one evening for my own use, but I might as
-well save it up here :P
+certain date. This project was written hastily and for personal use.
 
 ## Installation
 Pick a spot in your file system (we'll call it `DIR/`) and create `DIR/net/xmercerweiss/saveovertime`, then save `Main.class`
